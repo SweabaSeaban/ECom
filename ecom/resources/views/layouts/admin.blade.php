@@ -62,6 +62,7 @@
     <script src="{{asset('admin/js/jquery.dataTables.js')}}"></script>
     <script src="{{asset('admin/js/dataTables.bootstrap4.js')}}"></script>
     <!-- End custom js for this page-->
+    <script src="{{url('https://kit.fontawesome.com/a076d05399.js')}}"></script>
     @livewireScripts
 </body>
 </html>

@@ -64,5 +64,6 @@
     <!-- End custom js for this page-->
     <script src="{{url('https://kit.fontawesome.com/a076d05399.js')}}"></script>
     @livewireScripts
+    @stack('script')
 </body>
 </html>
